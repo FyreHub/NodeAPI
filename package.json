@@ -5,8 +5,9 @@
   "description": "FyreNodes Node API",
   "main": "dist/app.js",
   "scripts": {
-    "build": "tsc",
-    "dev": "ts-node-dev ./app.ts"
+    "build": "tsc .",
+    "dev": "ts-node-dev ./App.ts",
+    "start": "pm2 start ecosystem.config.js --env production"
   },
   "repository": {
     "type": "git",

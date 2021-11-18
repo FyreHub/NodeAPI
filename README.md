@@ -1,2 +1,2 @@
-# NodeAPI
+# Fyre NodeAPI
 FyreNodes Node API
