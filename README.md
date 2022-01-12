@@ -3,11 +3,6 @@
 
 Fyre NodeAPI is an API built to run on nodes and report the resource usage values of the server to the API Endpoints.
 
-## Documentation
-* Installation & Setup: Coming Soon
-* Modifying: Coming Soon
-* Addition Help: Join our Discord.
-
 ## Links
 
 * [Fyre NodeAPI](https://github.com/FyreNodes/NodeAPI)
